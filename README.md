@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Joshua Boyd
+I'm a full-stack developer based in South Africa 🇿🇦, passionate about building scalable apps and impactful digital tools.
 
-<!--
-**JustBoyd/JustBoyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+**Frontend:** React, Next.js, React Native, CSS, JavaScript  
+**Backend:** Node.js, FastAPI, Supabase, PostgreSQL  
+**DevOps:** Docker, Nginx, cPanel/VPS Hosting  
+**Other:** Git, REST APIs, Firebase, Python, TailwindCSS
 
-Here are some ideas to get you started:
+## 🧠 Current Focus
+- Building scalable client-facing apps with React & Supabase
+- Experimenting with AI & automation tools
+- Improving bug bounty & OSINT workflow tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Website
+[jdblueprints.com](https://jdblueprints.com)
+
+## 📫 Let's connect
+Email: jboyd@jdblueprints.com
+
