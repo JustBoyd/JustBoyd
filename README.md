@@ -1,20 +1,12 @@
-# 👋 Hi, I'm Joshua Boyd
-I'm a full-stack developer based in South Africa 🇿🇦, passionate about building scalable apps and impactful digital tools.
+Software Developer with specific expertise in managing the full deployment of platform projects from idea to commercially viable project. 
 
-## 🛠️ Tech Stack
-**Frontend:** React, Next.js, React Native, CSS, JavaScript  
-**Backend:** Node.js, FastAPI, Supabase, PostgreSQL  
-**DevOps:** Docker, Nginx, cPanel/VPS Hosting  
-**Other:** Git, REST APIs, Firebase, Python, TailwindCSS
+Extending my current expertise in to IoT hardware implemntation and secuirty by design.
 
-## 🧠 Current Focus
-- Building scalable client-facing apps with React & Supabase
-- Experimenting with AI & automation tools
-- Improving bug bounty & OSINT workflow tools
+You can find my personal projects here ranging from websites to IOT ESP/Arduino projects and some production consoles.
 
-## 🌐 Website
-[jdblueprints.com](https://jdblueprints.com)
+Find my company at https://blrptns.com
+Find my portfolio at https://joshua.blprtns.com
 
-## 📫 Let's connect
-Email: jboyd@jdblueprints.com
+----------------8<-------------[ cut here ]------------------
+
 
